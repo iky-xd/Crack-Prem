@@ -1,4 +1,4 @@
-futures
-stdiomask
-crack
 requests
+rich
+futures
+random-user-agent
