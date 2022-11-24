@@ -1,5 +1,4 @@
 # Hasil ok tergantung Muka lu Bos
-Crack ig untuk crack akun kakek lu>&lt;
 
 $pkg update && pkg upgrade
 
@@ -15,7 +14,7 @@ $git clone https://github.com/iky-xd/Crack-Prem.git
 
 $cd Crack-Prem
 
-$pip install -r requirement.txt
+$pip install -r requirements.txt
 
 $python run.py
 
