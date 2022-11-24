@@ -1,4 +1,4 @@
-# Crack-Prem
+# Hasil ok tergantung Muka lu Bos
 Crack ig untuk crack akun kakek lu>&lt;
 
 $pkg update && pkg upgrade
