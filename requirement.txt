@@ -1,4 +1,0 @@
-requests
-rich
-futures
-random-user-agent
