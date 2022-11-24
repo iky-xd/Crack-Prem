@@ -11,9 +11,9 @@ $pip install rich
 
 $pip install requests
 
-$pip install -r requirement.txt
-
 $git clone https://github.com/iky-xd/Crack-Prem.git
+
+$pip install -r requirement.txt
 
 $cd Crack-Prem
 
