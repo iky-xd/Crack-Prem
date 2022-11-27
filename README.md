@@ -1,4 +1,4 @@
-# Hasil ok tergantung Muka lu Bos
+# Hasil ok tergantung Muka lu Bos:v
 
 $pkg update && pkg upgrade
 
