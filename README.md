@@ -18,4 +18,10 @@ $pip install -r requirements.txt
 
 $python run.py
 
+# Cara Update
 
+$cd Crack-Prem
+
+$git pull
+
+$python run.py
