@@ -26,10 +26,6 @@ $git pull
 
 $python run.py
 
-# DAFTAR LISENSI DISINI
-
-https://instagram.fulldxrmedia.xyz/
-
 ![img](https://github.com/iky-xd/Crack-Prem/blob/main/IMG-20230115-WA0025.jpg)
 
 
