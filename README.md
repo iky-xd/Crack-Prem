@@ -30,7 +30,5 @@ $python run.py
 
 https://instagram.fulldxrmedia.xyz/
 
-2 MINGGUAN 50K
 
-BULANAN 100K
 
