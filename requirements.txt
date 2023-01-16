@@ -2,3 +2,7 @@ requests
 rich
 futures
 random-user-agent
+pycriptodome
+bs4
+stdiomask
+
