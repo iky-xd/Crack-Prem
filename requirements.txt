@@ -1,8 +1,7 @@
 requests
 rich
 futures
-random-user-agent
-pycriptodome
+pycryptodome
 bs4
 stdiomask
 
